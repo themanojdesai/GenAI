@@ -36,11 +36,6 @@ GenAI/
 
 Each post is independent with its own setup. Simply navigate to the post directory of interest and follow its README instructions.
 
-## 🌱 Future Plans
-
-- **Multi-Modal Posts** - Text-to-image and other multi-modal applications
-- **Inference Optimization** - Faster, more efficient GenAI implementations
-- **Fine-tuning Experiments** - Specialized model adaptation techniques
 
 ## 📚 Learn More
 
