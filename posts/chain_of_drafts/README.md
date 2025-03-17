@@ -6,8 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/themanojdesai?style=social)](https://twitter.com/themanojdesai)
 
-<img src="https://i.imgur.com/sDmDupw.png" width="650px" alt="Chain of Drafts vs Chain of Thought comparison" />
-
 </div>
 
 ## 🧠 Overview
