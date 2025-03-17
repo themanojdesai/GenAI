@@ -1,4 +1,4 @@
-# ⛓️ Chain of Drafts: Token-Efficient Reasoning
+# ⛓️ Chain of Drafts: AI That Thinks Fast, Not Fancy (Token-Efficient Reasoning)
 
 <div align="center">
 
