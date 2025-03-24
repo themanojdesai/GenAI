@@ -22,11 +22,15 @@ A token-efficient alternative to Chain of Thought reasoning that reduces token u
 - Beautiful terminal visualization 
 - Production-ready implementation
 
-### 🔮 Coming Soon
+### [⚛️ Atom of Thoughts](./atom_of_thoughts/)
 
-- **Few-Shot Optimization** - Techniques for effective few-shot prompting
-- **RAG Patterns** - Building robust retrieval augmented generation systems
-- **Evaluation Framework** - Quantitative analysis of LLM performance
+A prompting technique inspired by first principles thinking that breaks complex problems into their smallest independent components ("atoms") for better accuracy.
+
+**Key aspects:**
+- Breaks problems into atomic subproblems that can be solved independently
+- Particularly effective for multi-factor and non-linear problems
+- Improves accuracy on complex reasoning tasks by ~14%
+- Side-by-side comparison with Chain of Thought reasoning
 
 ## 🚀 Using These Posts
 
