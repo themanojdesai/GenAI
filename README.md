@@ -21,15 +21,17 @@ This repository houses a collection of independent GenAI explorations and code e
 
 ```
 GenAI/
-├── posts/                  # Independent posts and demonstrations
-│   ├── chain_of_drafts/    # Token-efficient reasoning
-│   ├── atom_of_thoughts/   # First principles-inspired AI reasoning
+├── posts/                      # Independent posts and demonstrations
+│   ├── chain_of_drafts/        # Token-efficient reasoning
+│   ├── step_back_prompting/    # Abstract problem categorization before solving
+│   ├── atom_of_thoughts/       # First principles-inspired AI reasoning
 │   └── ... (more posts coming soon)
 ```
 
 ## 📝 Current Posts
 
 - **[Chain of Drafts](./posts/chain_of_drafts/)** - Token-efficient alternative to Chain of Thought reasoning that cuts token usage by 30-50%
+- **[Step-Back Prompting](./posts/step_back_prompting/)** - Improves problem-solving by first identifying the broader problem type before diving into specifics
 - **[Atom of Thoughts](./posts/atom_of_thoughts/)** - Breaking complex problems into independent atomic components for improved reasoning accuracy
 
 *Browse the [posts directory](./posts/) to explore all available examples.*
